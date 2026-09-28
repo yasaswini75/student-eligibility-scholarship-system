@@ -142,9 +142,9 @@ The project was tested using different boundary and real-world cases, including:
 
 ```text
 student-eligibility-scholarship-system/
-│
 ├── student_eligibility.py
-└── README.md
+├── README.md
+└── test_cases.md
 ```
 
 ## Future Improvements
